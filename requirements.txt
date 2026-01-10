@@ -34,4 +34,6 @@ tzdata==2024.1
 cplex
 pytorch-tabnet==4.1.0
 torch==2.1.0
+lightgbm==4.3.0
+
 
