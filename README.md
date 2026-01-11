@@ -7,7 +7,6 @@
 **Domain:** Machine Learning, Explainable AI, Financial Technology
 ## 🚀 **Live Demo**
 👉 **[Click here to try the app](https://loan-approval-counterfactual-generation.streamlit.app/)**
-be patient during loading 
 ---
 > Please be patient during loading—it may take a few moments 😊
 
