@@ -34,10 +34,10 @@ Even more challenging: when a bank needs to help hundreds or thousands of reject
 ## Real-World Example: Loan Application
 
 ### Scenario
-**Sarah's Loan Application:**
-- Annual Income: $45,000
+**Sagar Loan Application:**
+- Annual Income: ₹15,00,000
 - Credit Score: 620
-- Loan Amount Requested: $200,000
+- Loan Amount Requested: ₹10,00,000
 - Employment: Not self-employed
 - **Result:** Rejected ❌
 
