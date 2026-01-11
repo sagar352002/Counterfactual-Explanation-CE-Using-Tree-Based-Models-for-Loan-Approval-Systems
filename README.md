@@ -177,7 +177,7 @@ cet = CounterfactualExplanationTree(
     classifier=lightgbm_model,
     lambda_param=0.06,      # Balance effectiveness vs simplicity
     gamma=1.0,               # Regularization
-    max_iterations=5         # Training iterations
+    max_iterations=500        # Training iterations
 )
 
 # Train on historical data
